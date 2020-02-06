@@ -92,6 +92,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CartTests.cs" />
     <Compile Include="NavControllerTests.cs" />
     <Compile Include="ProductControllerTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

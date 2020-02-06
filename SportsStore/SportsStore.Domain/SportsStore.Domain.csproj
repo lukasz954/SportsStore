@@ -74,6 +74,8 @@
   <ItemGroup>
     <Compile Include="DbService\EFDbContext.cs" />
     <Compile Include="InfrastructureHelper\IDetermineRepositoriesAssembly.cs" />
+    <Compile Include="Model\Cart.cs" />
+    <Compile Include="Model\CartLine.cs" />
     <Compile Include="Model\Product.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repository\IProductRepository.cs" />
